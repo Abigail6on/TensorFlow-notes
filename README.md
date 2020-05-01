@@ -1,4 +1,4 @@
-# TensorFlow-notes
+# TensorFlow2.0-notes
 TensorFlow Core Learning Algorithms The algorithms we will focus on include:  Linear Regression Classification Clustering Hidden Markov Models
 
 1. Linear Regression
